@@ -6,7 +6,7 @@ Understand the high and low values of the Department of Labor enforced wages in 
 Analyze the average effective minimum wages in these states, especially in the recent years (2018-2020).
 Identify which states offer higher minimum wages and are more economically feasible for potential job seekers.
 
-The analysis was carried out using various Tableau visualization techniques, including:
+# The analysis was carried out using various Tableau visualization techniques, including:
 
 Area chart: To visualize the sum of state minimum wages across the Midwest states from 1968 to 2020.
 Treemap: To display the hierarchical distribution of the high and low values of the Department of Labor enforced wages in 2020 dollars.
@@ -15,7 +15,7 @@ Scatter plot: To visualize the relationship between the high and low values of t
 Symbol map: To depict the average state minimum wage distribution across the Midwest states.
 Box and whisker plot: To analyze the distribution of high values of effective minimum wages by Midwest states.
 
-The key results and insights from the analysis were:
+# The key results and insights from the analysis were:
 
 Michigan showed the highest distribution values across most visualizations, indicating that it offers the highest minimum state wages and can be a good choice for prospective job seekers looking to earn more.
 Michigan, South Dakota, and Nebraska had the highest distribution for average effective minimum wages, suggesting that workers in these states are least likely to be exploited by employers since the effective minimum wage ensures minimum living standards.
